@@ -21,7 +21,7 @@ To get started with the Sentiment Analysis of Movie Reviews project, follow thes
 1. Clone the repository to your local machine:
 
     ```
-    git clone https://github.com/Rc17git/Machine-Learning-Projects/tree/sentiment-analysis-movie
+    git clone https://github.com/Rc17git/Movie_review_Sentiment_Analysis.git
     ```
 
 2. Install the required dependencies:
