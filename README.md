@@ -44,7 +44,7 @@ The dataset (`IMDBataset.csv`) contains labeled examples of movie reviews, indic
 
 ## Model Performance
 
-The Bidirectional LSTM model achieved an impressive accuracy of 90% in sentiment classification. The evaluation metrics, including precision, recall, and F1 score, are presented in the notebook, providing insights into the model's performance.
+The Bidirectional LSTM model achieved an impressive accuracy of 90% in sentiment classification. The evaluation metrics, including precision, recall, and F1 score, are presented in the notebook, providing insights into the model's performance. achieved accuracy of 90%
 
 ## Contributing
 
